@@ -1,0 +1,8 @@
+{
+  "name": "Remix Teacher Lecture Video Generator",
+  "description": "Transform uploaded notes, PDFs, documents, or text into synchronized teacher-style video lectures with interactive slides, visual diagrams, and spoken classroom audio explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
