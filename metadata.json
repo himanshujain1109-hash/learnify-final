@@ -1,8 +1,0 @@
-{
-  "name": "Teacher Lecture Video Generator",
-  "description": "AI-powered educational platform and video generator featuring plain white PPT presentation slides with 2D visuals, interactive quizzes, flashcards, and comprehensive study notes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
